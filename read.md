@@ -1,9 +1,19 @@
-hey new branch
+git config --global user.name "rohan1917"
+git config --global user.email "rohankinnal1917@gmail.com"
 
-https://getbem.com/ https://fontawesome.com/search?q=user&o=r https://cdnjs.com/libraries/font-awesome
+git init
+git remote add origin https://github.com/rohandevtown/203241042420424-1.git
+code .
 
-https://fonts.google.com/selection/embed
+    git status (Optional Cmd)
+    git add .
+    git status
+    git commit -m "custom msg here"
+    git push
 
-https://cssgradient.io/
+    git checkout -b "branch-Name"
 
-Grid (2D Structure): >> grid-template-column: 1fr 2fr 1fr 3fr 1fr >> Always requires media-queries >> gap: 2px
+Font Awesom : https://fontawesome.com/search?q=search&o=r
+Font Awesome CDN: https://cdnjs.com/libraries/font-awesome
+
+Google Fonts: https://fonts.google.com/
